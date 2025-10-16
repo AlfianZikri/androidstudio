@@ -1,2 +1,2 @@
 # androidstudio
-training for newbie
+newbie
